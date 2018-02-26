@@ -1,8 +1,18 @@
 # Serie2
 
-Programme simple fait avec un éditeur de texte
-* MesPersonnes (main)
-* Personne
+##ANT
+
+##Arborescence
+
+|build.xml
+|-bin
+|--business   Personne.class
+|--main       MesPersonnes.class
+|-exe         MesPersonnes.jar
+|-src
+|--business   Personne.java
+|--main       MesPersonnes.java
+|build.xml
 
 ## Java
 ```
