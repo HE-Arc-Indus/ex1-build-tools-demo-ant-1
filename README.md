@@ -1,6 +1,6 @@
 # Serie2
 
-##Arborescence
+## Arborescence
 ```
 |build.xml
 |-bin
