@@ -3,7 +3,7 @@
 ##ANT
 
 ##Arborescence
-
+```
 |build.xml
 |-bin
 |--business   Personne.class
@@ -13,6 +13,7 @@
 |--business   Personne.java
 |--main       MesPersonnes.java
 |build.xml
+```
 
 ## Java
 ```
