@@ -1,7 +1,5 @@
 # Serie2
 
-##ANT
-
 ##Arborescence
 ```
 |build.xml
