@@ -42,9 +42,9 @@ Ant est développé en Java et se base sur un fichier XML qui contient les tâches 
 3. Ajouter le chemin du dossier décompressé dans une variable d'environnement ANT_HOME  
 _Pour tester si la version installée fonctionne correctement, lancer la commande : ANT -version_
 
-Chaque fichier XML de configuration contient un projet et au moins un cible par défaut. Chaque élément cible est constitué d'une ou plusieurs tâches (commandes) et est référencé par un attribut unique qui peut être être appelé par d'autres tâches.
-
 ### Utilisation de ANT [Using - Apache.org](https://ant.apache.org/manual/using.html)
+
+Chaque fichier XML de configuration contient un projet et au moins une cible par défaut. Chaque élément cible est constitué d'une ou plusieurs tâches (commandes) et est référencé par un attribut unique qui peut être être appelé par d'autres tâches.
 
 #### Projet (projects)
 Un projet contient trois attributs.     
