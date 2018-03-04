@@ -39,18 +39,18 @@ Ant est développé en Java et se base sur un fichier XML qui contient les tâches 
 ### Installation ANT [Install - Apache.org](http://ant.apache.org/manual/install.html)
 1. Télécharger Ant 
 2. Décompresser le fichier (package) téléchargé dans un dossier
-3. Ajouter le chemin du dossier décompressé dans une variable d'environnement ANT_HOME
-..* Pour tester si la version installée fonctionne correctement, lancer la commande : ANT -version
+3. Ajouter le chemin du dossier décompressé dans une variable d'environnement ANT_HOME  
+***Pour tester si la version installée fonctionne correctement, lancer la commande : ANT -version***
 
 Chaque fichier XML de configuration contient un projet et au moins un cible par défaut. Chaque élément cible est constitué d'une ou plusieurs tâches (commandes) et est référencé par un attribut unique qui peut être être appelé par d'autres tâches.
 
-#### Utilisation de ANT [Using - Apache.org](https://ant.apache.org/manual/using.html)
+### Utilisation de ANT [Using - Apache.org](https://ant.apache.org/manual/using.html)
 
 #### Projet (projects)
 Un projet contient trois attributs.     
-name : nom du projet   
-default : cible utilisée par défault si rien n'est spécifié   
-basedir : dossier racine de base utilisé pour l'exécution des commandes   
+name : ***nom du projet***     
+default : ***cible utilisée par défault si rien n'est spécifié***     
+basedir : ***dossier racine de base utilisé pour l'exécution des commandes***   
 
 #### Cibles (targets)
 Une cible est constituée d'une ou plusieurs tâches et est référencée par un attribut unique. Cet attribut permet d'appeler une cible précisemment lors de l'exécution et/ou de gérer des dépendences entre les cibles (ordre d'exécution).
@@ -73,7 +73,7 @@ Une proprité est constituée d'un nom et d'une valeur. Elle permet par exemple de
 
 ## Sources
 * [Apache.org](http://ant.apache.org/)
-* [Developpez.com] (http://skebir.developpez.com/tutoriels/java/ant/)
+* [Developpez.com](http://skebir.developpez.com/tutoriels/java/ant/)
 
 #### Auteurs
 Adrien Emeri, Nicolas Sutterlet, Hugo Gonçalves, Valentin Du Bois 
