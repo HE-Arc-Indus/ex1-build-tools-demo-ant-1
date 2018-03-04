@@ -1,4 +1,4 @@
-# Serie2
+# Serie2 - Demo ANT
 
 ## Arborescence du projet MesPersonnes
 ```
