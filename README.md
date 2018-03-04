@@ -40,7 +40,7 @@ Ant est développé en Java et se base sur un fichier XML qui contient les tâches 
 1. Télécharger Ant 
 2. Décompresser le fichier (package) téléchargé dans un dossier
 3. Ajouter le chemin du dossier décompressé dans une variable d'environnement ANT_HOME  
-__Pour tester si la version installée fonctionne correctement, lancer la commande : ANT -version__
+_Pour tester si la version installée fonctionne correctement, lancer la commande : ANT -version_
 
 Chaque fichier XML de configuration contient un projet et au moins un cible par défaut. Chaque élément cible est constitué d'une ou plusieurs tâches (commandes) et est référencé par un attribut unique qui peut être être appelé par d'autres tâches.
 
@@ -48,9 +48,9 @@ Chaque fichier XML de configuration contient un projet et au moins un cible par 
 
 #### Projet (projects)
 Un projet contient trois attributs.     
-name : __nom du projet__     
-default : __cible utilisée par défault si rien n'est spécifié__     
-basedir : __dossier racine de base utilisé pour l'exécution des commandes__   
+name : _nom du projet_     
+default : _cible utilisée par défault si rien n'est spécifié_     
+basedir : _dossier racine de base utilisé pour l'exécution des commandes_   
 
 #### Cibles (targets)
 Une cible est constituée d'une ou plusieurs tâches et est référencée par un attribut unique. Cet attribut permet d'appeler une cible précisemment lors de l'exécution et/ou de gérer des dépendences entre les cibles (ordre d'exécution).
