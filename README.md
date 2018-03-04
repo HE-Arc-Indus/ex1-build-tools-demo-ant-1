@@ -47,7 +47,7 @@ Chaque fichier XML de configuration contient un projet et au moins un cible par 
 #### Utilisation de ANT [Using - Apache.org](https://ant.apache.org/manual/using.html)
 
 #### Projet (projects)
-Un projet contient trois attributs :   
+Un projet contient trois attributs.     
 name : nom du projet   
 default : cible utilisée par défault si rien n'est spécifié   
 basedir : dossier racine de base utilisé pour l'exécution des commandes   
@@ -72,8 +72,11 @@ Une proprité est constituée d'un nom et d'une valeur. Elle permet par exemple de
 ```
 
 ## Sources
-[Apache.org](http://ant.apache.org/)   
-[Developpez.com] (http://skebir.developpez.com/tutoriels/java/ant/)
+* [Apache.org](http://ant.apache.org/)   
+* [Developpez.com] (http://skebir.developpez.com/tutoriels/java/ant/)
+
+#### Auteurs
+Adrien Emeri, Nicolas Sutterlet, Hugo Gonçalves, Valentin Du Bois 
 
 
 
