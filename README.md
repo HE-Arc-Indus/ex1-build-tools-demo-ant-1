@@ -72,7 +72,7 @@ Une proprité est constituée d'un nom et d'une valeur. Elle permet par exemple de
 ```
 
 ## Sources
-* [Apache.org](http://ant.apache.org/)   
+* [Apache.org](http://ant.apache.org/)
 * [Developpez.com] (http://skebir.developpez.com/tutoriels/java/ant/)
 
 #### Auteurs
