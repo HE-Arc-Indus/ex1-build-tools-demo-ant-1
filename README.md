@@ -37,9 +37,9 @@ Ant est un projet open source de la fondation Apache qui permet d'automatiser de
 Ant est développé en Java et se base sur un fichier XML qui contient les tâches qui devront être exécutées.
 
 ### Installation ANT [Install - Apache.org](http://ant.apache.org/manual/install.html)
-1. Télécharger Ant 
-2. Décompresser le fichier (package) téléchargé dans un dossier
-3. Ajouter le chemin du dossier décompressé dans une variable d'environnement ANT_HOME  
+1. Décompresser le fichier téléchargé dans un dossier   
+2. Définir une variable d’environnement ANT_HOME pour stocker le chemin vers le dossier racine de Ant   
+3. Ajouter %ANT_HOME%/bin au PATH Windows  
 _Pour tester si la version installée fonctionne correctement, lancer la commande : ANT -version_
 
 ### Utilisation de ANT [Using - Apache.org](https://ant.apache.org/manual/using.html)
